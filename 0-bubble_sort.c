@@ -15,8 +15,8 @@ void swap_ints(int *a, int *b)
 }
 
 /**
- * bubble_sort - a function that sorts an array of integers in ascending order.
- * @array: array of integers to sort.
+ * bubble_sort - a function that sorts arrays of integers in ascending order.
+ * @array: arrays of integers to sort.
  * @size: size of the array.
  *
  * Description: prints the array after each swap.
